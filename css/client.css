@@ -1,0 +1,17 @@
+ #load {
+ 	margin-left: auto;
+ 	margin-right: auto;
+ 	margin-top: 200px;
+ 	display: block;
+ }
+
+#screenshot {
+	width: 100%;
+}
+
+ body {
+ 	background: #eee;
+ 	margin: 0;
+ 	padding: 0;
+ 	border-top: 2px solid black;
+ }
